@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leboto5990/lebo/static/css/main.15f80e5b.css",
+    "main.js": "/leboto5990/lebo/static/js/main.4055744b.js",
+    "static/js/453.80bf345f.chunk.js": "/leboto5990/lebo/static/js/453.80bf345f.chunk.js",
+    "index.html": "/leboto5990/lebo/index.html",
+    "main.15f80e5b.css.map": "/leboto5990/lebo/static/css/main.15f80e5b.css.map",
+    "main.4055744b.js.map": "/leboto5990/lebo/static/js/main.4055744b.js.map",
+    "453.80bf345f.chunk.js.map": "/leboto5990/lebo/static/js/453.80bf345f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f80e5b.css",
+    "static/js/main.4055744b.js"
+  ]
+}
